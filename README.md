@@ -17,19 +17,33 @@ This repository is a full record of my learning to become a full stack javascrip
 
 ## Current Level Of Confidence
 
-Languages      | Beginner      | Intermediate  | Expert  |
-----           | ----          | ----          | ----    |
-HTML*          | X             | -             | -       |
-CSS*           | X             | -             | -       |
-JavaScript*    | -             | -             | -       |
-TypeScript*    | -             | -             | -       |
-React.JS*      | -             | -             | -       |
-Node.JS*       | -             | -             | -       |
-Express.JS*    | -             | -             | -       |
-MySQL          | -             | -             | -       |
-Mongo DB*      | -             | -             | -       |
-* Represents a key language to learn to become a Full Stack JavaScript Developer.
+Languages      | Beginner | Intermediate | Expert |
+----           | ----     | ----         | ----   |
+HTML*          | X        | X            | -      |
+CSS*           | X        | X            | -      |
+JavaScript*    | -        | -            | -      |
+TypeScript*    | -        | -            | -      |
+React.JS*      | -        | -            | -      |
+Node.JS*       | -        | -            | -      |
+Express.JS*    | -        | -            | -      |
+MySQL          | X        | -            | -      |
+Mongo DB*      | -        | -            | -      |
+NGINX          | X        | -            | -      |
+Apache2.4      | X        | -            | -      |
 
-## Background
+(*)Represents a key language to learn to become a Full Stack JavaScript 
 
-## 
+## Courses I am or have taken
+
+### [Free Code Camp](https://www.freecodecamp.org/)
+- [ ] [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [ ] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [ ] [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [ ] [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [ ] [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/)
+
+### [Code Academy](https://www.codecademy.com/)
+- [ ] [Front-End Engineer](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+- [ ] [Back-End Engineer](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
+- [ ] [Full-Stack Software Engineer](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+

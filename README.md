@@ -1,7 +1,9 @@
 # Learning Tracker
 This repository is a full record of my learning to become a full stack javascript developer.
 
-[Future Portfolio](http://github.com) | [Twitter](https://twitter.com/elliotjfarrow) | [LinkedIn Profile](https://www.linkedin.com/in/elliotjfarrow) | [Free Code Camp Profile](https://www.freecodecamp.org/elliotjfarrow) 
+[Future Portfolio](http://github.com) 
+[Twitter](https://twitter.com/elliotjfarrow) | [LinkedIn Profile](https://www.linkedin.com/in/elliotjfarrow) 
+[CodePen.io Profile](https://codepen.io/Elliotjfarrow) | [Free Code Camp Profile](https://www.freecodecamp.org/elliotjfarrow) 
 
 ----
 ## Goals

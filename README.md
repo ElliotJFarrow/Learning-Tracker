@@ -11,8 +11,8 @@ This repository is a full record of my learning to become a full stack javascrip
 ## Goals
 
 2021 (Oct-Dec)
-- [ ] Understand the basics of web development through HTML, CSS, JavaScript.
-- [ ] Continuing with more advanced JavaScript processes and methods.
+- [x] Understand the basics of web development through HTML, CSS.
+- [ ] Continuing with JavaScript processes and methods.
 - [ ] Dynamic Pages & Sites with React.JS 
 - [ ] Learning Back-End using Node.JS
 - [ ] Progressing to use Express.JS with Node.JS.
@@ -23,21 +23,20 @@ This repository is a full record of my learning to become a full stack javascrip
 
 Languages      | Beginner | Intermediate | Expert | Links |
 ----           | ----     | ----         | ----   | ---- |
-HTML*          | X        | X            | -      | - |
-CSS*           | X        | X            | -      | - |
-JavaScript*    | -        | -            | -      | [JavaScript](https://www.javascript.com/) |
-TypeScript*    | -        | -            | -      | [TypeScript](https://www.typescriptlang.org/) |
-React.JS*      | -        | -            | -      | [React.JS](https://reactjs.org/) |
-Node.JS*       | -        | -            | -      | [Node.JS Home](https://nodejs.org/en/) |
-Express.JS*    | -        | -            | -      | [Express.JS Home](https://expressjs.com/) |
+HTML           | X        | X            | X      | - |
+CSS            | X        | X            | X      | - |
+JavaScript     | -        | -            | -      | [JavaScript](https://www.javascript.com/) |
+TypeScript     | -        | -            | -      | [TypeScript](https://www.typescriptlang.org/) |
+React.JS       | -        | -            | -      | [React.JS](https://reactjs.org/) |
+Node.JS        | -        | -            | -      | [Node.JS Home](https://nodejs.org/en/) |
+Express.JS     | -        | -            | -      | [Express.JS Home](https://expressjs.com/) |
 MySQL          | X        | -            | -      | [MySQL Home](https://www.mysql.com/) |
-Mongo DB*      | -        | -            | -      | [Mongo DB Home](https://www.mongodb.com/) |
+Mongo DB       | -        | -            | -      | [Mongo DB Home](https://www.mongodb.com/) |
 NGINX          | X        | -            | -      | [nginx.com Home](https://www.nginx.com/) [nginx.org Home](https://nginx.org/) |
 Apache2.4      | X        | -            | -      | [Apache Home](https://httpd.apache.org/) |
 Git            | X        | -            | -      | [Git Home](https://git-scm.com/) |
 Markdown       | X        | -            | -      | [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) |
 
-(*)Represents a key language to learn to become a Full Stack JavaScript 
 
 ## Courses I am or have taken
 

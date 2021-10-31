@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>FCC: Survey Form</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <header>
+            <h1 id="title">Elliot J Farrow Survey Form</h1>
+            <p id="description">An example survey form to practive HTML & CSS</p>
+        </header>
+        <main>
+            <form id="survey-form" action="#" method="post">
+                <label id="name-label" for="name">Name:</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="e.g John Doe" required />
+                <label id="email-label" for="email">Email:</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="e.g johndoe@gmail.com" required />
+                <label id="number-label" for="number">Age <em>(optional)</em></label>
+                <input type="number" name="age" id="number" min="10" max="99" class="form-control" placeholder="Age" />
+                
+                <button type="submit" id="submit" class="submit-button">Submit</button>
+            </form>
+        </main>
+    </body>
+</html>

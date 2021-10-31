@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+html {
+  font-size: 10px;
+}
+body {
+  margin: 0;
+}
+main {
+  font-family: 'Amatic SC', 'Verdana', sans-serif;
+  width: 100%;
+}
